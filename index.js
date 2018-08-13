@@ -2,6 +2,10 @@ function add(a, b) {
   return a + b
   console.log(a + b)
 }
+<<<<<<< HEAD
+=======
++
+>>>>>>> 891a3ec67eaba5649b2a8d34e26c07d1b433fe15
 function subtract(a, b) {
   return a - b
   console.log(a - b)
@@ -10,10 +14,16 @@ function subtract(a, b) {
 function multiply(a, b) {
   return a * b
 }
+<<<<<<< HEAD
 
 function divide(a, b) {
   return a / b
   console.log( a / b)
+=======
++
+function divide(a, b) {
+  return a / b
+>>>>>>> 891a3ec67eaba5649b2a8d34e26c07d1b433fe15
 }
 
 function inc(n) {
